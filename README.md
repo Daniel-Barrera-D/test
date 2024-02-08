@@ -15,3 +15,6 @@ Ir a la carpeta raíz del proyecto
 
 **Ejecutar la aplicación react**
 ### `npm start`
+
+**Ir al navegador a la ruta:**
+### `http://localhost:3000/`
